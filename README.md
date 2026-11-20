@@ -11,7 +11,7 @@ A collection of Python scripts for extracting, inspecting, modifying, and safely
 ## Prerequisites
 * **Python 3.8+** (uses standard library modules; no extra pip packages required unless noted)
 * **GreedXplorer** (for converting `.xpr` textures to `.dds` and re-importing edited `.dds` files back into `.xpr`)
-* A **`.dds` capable image editor** (such as GIMP, Paint.NET, or Photoshop with the NVIDIA/Intel DDS plugin)
+* A **`.dds` capable image editor** (such as GIMP, Paint.NET, or Photoshop with the NVIDIA/Intel DDS plugin) I use PhotoCraft
 * Legally dumped **Ninja Gaiden Black (Original Xbox)** `.afs` files (e.g., `databin.afs`)
 
 ## Modding Workflow
